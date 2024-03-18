@@ -1,0 +1,720 @@
+/* screen - safechat */
+
+.safechat {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 17079px;
+  width: 1728px;
+}
+
+.safechat .nav-bar {
+  height: 670px;
+  object-fit: cover;
+  width: 1728px;
+}
+
+.safechat .body {
+  display: flex;
+  height: 15541px;
+  margin-top: 2px;
+  width: 1728px;
+}
+
+.safechat .left-bar {
+  display: flex;
+  flex-direction: column;
+  height: 15361px;
+  width: 357px;
+}
+
+.safechat .safe-chat-logo {
+  height: 81.57px;
+  margin-left: 93px;
+  margin-top: 70px;
+  object-fit: cover;
+  width: 200px;
+}
+
+.safechat .duration {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 29.4px;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.safechat .march-june-2021 {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 15px;
+  width: 257px;
+}
+
+.safechat .surname {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 50px;
+  white-space: nowrap;
+  width: 221px;
+}
+
+.safechat .user-research-user-p {
+  height: 210px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 100px;
+  margin-top: 15px;
+  width: 257px;
+}
+
+.safechat .tools {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 50px;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.safechat .figma-miro-storyboard-that-canva {
+  height: 120px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 100px;
+  margin-top: 15px;
+  width: 199px;
+}
+
+.safechat .team {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 50px;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.safechat .name {
+  height: 120px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 100px;
+  margin-top: 15px;
+  width: 218px;
+}
+
+.safechat .content {
+  height: 15361px;
+  position: relative;
+  width: 1371px;
+}
+
+.safechat .my-independent-redes {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 15110px;
+  width: 1084px;
+}
+
+.safechat .our-project-undersco {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 14890px;
+  width: 1084px;
+}
+
+.safechat .the-design-journey-w {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 14570px;
+  width: 1084px;
+}
+
+.safechat .reflections-key-takeaways {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 14500px;
+  white-space: nowrap;
+}
+
+.safechat .hifi31 {
+  height: 841px;
+  left: 685px;
+  position: absolute;
+  top: 13382px;
+  width: 414px;
+}
+
+.safechat .hifi3 {
+  height: 841px;
+  left: 84px;
+  position: absolute;
+  top: 13382px;
+  width: 414px;
+}
+
+.safechat .hifi21 {
+  height: 841px;
+  left: 685px;
+  position: absolute;
+  top: 12422px;
+  width: 412px;
+}
+
+.safechat .hifi2 {
+  height: 841px;
+  left: 84px;
+  position: absolute;
+  top: 12422px;
+  width: 414px;
+}
+
+.safechat .hifi11 {
+  height: 841px;
+  left: 673px;
+  position: absolute;
+  top: 11462px;
+  width: 412px;
+}
+
+.safechat .hifi1 {
+  height: 841px;
+  left: 84px;
+  position: absolute;
+  top: 11462px;
+  width: 414px;
+}
+
+.safechat .title {
+  display: flex;
+  gap: 360px;
+  height: 50px;
+  left: 84px;
+  position: absolute;
+  top: 11353px;
+  width: 977px;
+}
+
+.safechat .my-teams-original-ui {
+  height: 50px;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 82px;
+  text-align: center;
+  white-space: nowrap;
+  width: 248px;
+}
+
+.safechat .my-redesigned-ui {
+  height: 50px;
+  letter-spacing: 0;
+  line-height: 50px;
+  text-align: center;
+  white-space: nowrap;
+  width: 210px;
+}
+
+.safechat .our-team-developed-h {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 11050px;
+  width: 1084px;
+}
+
+.safechat .high-fidelity-prototype {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 10980px;
+  white-space: nowrap;
+}
+
+.safechat .aw2 {
+  height: 620px;
+  left: 231px;
+  object-fit: cover;
+  position: absolute;
+  top: 10271px;
+  width: 875px;
+}
+
+.safechat .aw1 {
+  height: 620px;
+  left: 248px;
+  object-fit: cover;
+  position: absolute;
+  top: 9631px;
+  width: 875px;
+}
+
+.safechat .i-annotated-each-wir {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 9455px;
+  width: 1084px;
+}
+
+.safechat .annotated-wireframes {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 9385px;
+  white-space: nowrap;
+}
+
+.safechat .lofi10 {
+  height: 633px;
+  left: 889px;
+  position: absolute;
+  top: 8663px;
+  width: 303px;
+}
+
+.safechat .lofi9 {
+  height: 627px;
+  left: 499px;
+  position: absolute;
+  top: 8669px;
+  width: 303px;
+}
+
+.safechat .lofi4 {
+  height: 626px;
+  left: 108px;
+  position: absolute;
+  top: 8670px;
+  width: 303px;
+}
+
+.safechat .lofi3 {
+  height: 621px;
+  left: 889px;
+  position: absolute;
+  top: 7979px;
+  width: 303px;
+}
+
+.safechat .lofi2 {
+  height: 621px;
+  left: 499px;
+  position: absolute;
+  top: 7979px;
+  width: 303px;
+}
+
+.safechat .lofi1 {
+  height: 621px;
+  left: 108px;
+  position: absolute;
+  top: 7979px;
+  width: 303px;
+}
+
+.safechat .we-crafted-low-fidel {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 7738px;
+  width: 1084px;
+}
+
+.safechat .low-fidelity-wireframes {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 7668px;
+  white-space: nowrap;
+}
+
+.safechat .screen-5-additional-resources {
+  left: 710px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 7528px;
+  white-space: nowrap;
+}
+
+.safechat .sketch-5 {
+  left: 710px;
+  object-fit: cover;
+  top: 7009px;
+  width: 375px;
+}
+
+.safechat .screen-4-journaling {
+  left: 340px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 7528px;
+  white-space: nowrap;
+}
+
+.safechat .sketch-4 {
+  left: 273px;
+  top: 7009px;
+  width: 377px;
+}
+
+.safechat .screen-3-scheduled-support {
+  left: 931px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 6890px;
+  white-space: nowrap;
+}
+
+.safechat .sketch-3 {
+  left: 917px;
+  object-fit: cover;
+  top: 6371px;
+  width: 374px;
+}
+
+.safechat .screen-2-instant-support {
+  left: 532px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 6890px;
+  white-space: nowrap;
+}
+
+.safechat .sketch-2 {
+  left: 491px;
+  object-fit: cover;
+  top: 6371px;
+  width: 388px;
+}
+
+.safechat .screen-1-homepage {
+  left: 139px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 6890px;
+  white-space: nowrap;
+}
+
+.safechat .sketch-1 {
+  left: 69px;
+  object-fit: cover;
+  top: 6371px;
+  width: 384px;
+}
+
+.safechat .i-used-pencil-and-pa {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 6176px;
+  width: 1084px;
+}
+
+.safechat .interface-sketches {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 6106px;
+  white-space: nowrap;
+}
+
+.safechat .storyboard-created-w {
+  left: 322px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 5966px;
+  white-space: nowrap;
+}
+
+.safechat .storyboard-3 {
+  height: 987px;
+  left: 113px;
+  top: 4960px;
+  width: 1144px;
+}
+
+.safechat .storyboard-created-with-storyboard-that {
+  left: 436px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 4819px;
+  white-space: nowrap;
+}
+
+.safechat .storyboard-2 {
+  height: 681px;
+  left: 129px;
+  top: 4119px;
+  width: 1113px;
+}
+
+.safechat .storyboard-created-with-storyboard-that-1 {
+  left: 436px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 3978px;
+  white-space: nowrap;
+}
+
+.safechat .storyboard-1 {
+  height: 369px;
+  left: 101px;
+  top: 3590px;
+  width: 1169px;
+}
+
+.safechat .visual-storyboards-o {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 3399px;
+  width: 1084px;
+}
+
+.safechat .storyboards {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 3329px;
+  white-space: nowrap;
+}
+
+.safechat .mikes-user-journey-map {
+  left: 539px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 3229px;
+  white-space: nowrap;
+}
+
+.safechat .mike-user-journey-map {
+  height: 511px;
+  left: 192px;
+  object-fit: cover;
+  position: absolute;
+  top: 2699px;
+  width: 986px;
+}
+
+.safechat .to-capture-mikes-ex {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 2428px;
+  width: 1084px;
+}
+
+.safechat .user-journey-map {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 2358px;
+  white-space: nowrap;
+}
+
+.safechat .name-1 {
+  left: 605px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 2258px;
+  white-space: nowrap;
+}
+
+.safechat .mike-persona {
+  height: 503px;
+  left: 308px;
+  position: absolute;
+  top: 1744px;
+  width: 754px;
+}
+
+.safechat .name-2 {
+  left: 602px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 1605px;
+  white-space: nowrap;
+}
+
+.safechat .erica-persona {
+  height: 495px;
+  left: 312px;
+  position: absolute;
+  top: 1091px;
+  width: 746px;
+}
+
+.safechat .lack-of-awareness-ab {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 740px;
+  width: 1084px;
+}
+
+.safechat .our-research-delved {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 570px;
+  width: 1084px;
+}
+
+.safechat .user-research {
+  top: 503px;
+}
+
+.safechat .where-support-meets {
+  color: var(--black-2);
+  font-weight: 400;
+  left: 68px;
+  line-height: 50px;
+  position: absolute;
+  top: 158px;
+  width: 1086px;
+}
+
+.safechat .title-1 {
+  height: 69px;
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 69px;
+  width: 228px;
+}
+
+.safechat .bottom {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 157px;
+  height: 768px;
+  width: 1728px;
+}
+
+.safechat .divider {
+  height: 5px;
+  margin-right: 0.01px;
+  object-fit: cover;
+  width: 1500px;
+}
+
+.safechat .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  min-width: 1580px;
+}
+
+.safechat .capstone {
+  cursor: pointer;
+  height: 500px;
+  object-fit: cover;
+  width: 500px;
+}
+
+.safechat .footer {
+  background-color: transparent;
+  display: flex;
+  flex-shrink: 1;
+  height: 98px;
+  width: 1728px;
+}
+
+.safechat .designed-and-devel {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 82px;
+  margin-top: 35px;
+  white-space: nowrap;
+  width: 439px;
+}
+
+.safechat .gmail {
+  height: 50px;
+  margin-left: 1008px;
+  margin-top: 24px;
+  width: 50px;
+}
+
+.safechat .linked-in {
+  cursor: pointer;
+  height: 50px;
+  margin-left: 25px;
+  margin-top: 24px;
+  width: 50px;
+}
+
+.safechat .sketch {
+  height: 500px;
+  position: absolute;
+}
+
+.safechat .storyboard {
+  object-fit: cover;
+  position: absolute;
+}
+
+.safechat .user {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  white-space: nowrap;
+}

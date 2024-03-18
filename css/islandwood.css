@@ -1,0 +1,737 @@
+/* screen - islandwood */
+
+.islandwood {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 14348px;
+  width: 1728px;
+}
+
+.islandwood .nav-bar {
+  background-image: url(../img/islandwood-banner.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 670px;
+  width: 1728px;
+}
+
+.islandwood .name {
+  cursor: pointer;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 75px;
+  margin-top: 35px;
+  white-space: nowrap;
+  width: 153px;
+}
+
+.islandwood .work {
+  cursor: pointer;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 1113px;
+  margin-top: 35px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.islandwood .archived {
+  cursor: pointer;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 24px;
+  margin-top: 35px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.islandwood .about {
+  cursor: pointer;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 24px;
+  margin-top: 35px;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.islandwood .resume {
+  cursor: pointer;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 24px;
+  margin-top: 35px;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.islandwood .body {
+  display: flex;
+  height: 12910px;
+  width: 1728px;
+}
+
+.islandwood .left-bar {
+  display: flex;
+  flex-direction: column;
+  height: 12851px;
+  width: 357px;
+}
+
+.islandwood .island-wood-logo {
+  height: 52.77px;
+  margin-left: 95px;
+  margin-top: 70px;
+  object-fit: cover;
+  width: 250px;
+}
+
+.islandwood .company {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 58.2px;
+  white-space: nowrap;
+  width: 115px;
+}
+
+.islandwood .island-wood {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 15px;
+  width: 140px;
+}
+
+.islandwood .duration {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 50px;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.islandwood .november-december-2021 {
+  height: 54px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 15px;
+  width: 257px;
+}
+
+.islandwood .surname {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 50px;
+  white-space: nowrap;
+  width: 221px;
+}
+
+.islandwood .logo-design-color-sc {
+  height: 180px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 100px;
+  margin-top: 15px;
+  width: 257px;
+}
+
+.islandwood .tools {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 50px;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.islandwood .figma-canva {
+  height: 60px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 100px;
+  margin-top: 15px;
+  width: 89px;
+}
+
+.islandwood .content {
+  height: 12851px;
+  position: relative;
+  width: 1371px;
+}
+
+.islandwood .island-woods-transfo {
+  top: 12568px;
+  width: 1084px;
+}
+
+.islandwood .this-project-deepene {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 12249px;
+  width: 1084px;
+}
+
+.islandwood .reflections-key-takeaways {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 12161px;
+  white-space: nowrap;
+}
+
+.islandwood .screen-4-community {
+  left: 332px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 12006px;
+  width: 566px;
+}
+
+.islandwood .screen4new {
+  height: 850px;
+  left: 712px;
+  position: absolute;
+  top: 11116px;
+  width: 419px;
+}
+
+.islandwood .screen4old {
+  height: 856px;
+  left: 99px;
+  position: absolute;
+  top: 11116px;
+  width: 422px;
+}
+
+.islandwood .screen-3-education-programs-page {
+  left: 401px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 10978px;
+  white-space: nowrap;
+}
+
+.islandwood .screen3new {
+  height: 850px;
+  left: 712px;
+  position: absolute;
+  top: 10094px;
+  width: 419px;
+}
+
+.islandwood .screen3old {
+  height: 850px;
+  left: 98px;
+  position: absolute;
+  top: 10094px;
+  width: 424px;
+}
+
+.islandwood .screen-2-hamburger-menu {
+  left: 453px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 9955px;
+  white-space: nowrap;
+}
+
+.islandwood .screen2new {
+  height: 859px;
+  left: 709px;
+  position: absolute;
+  top: 9062px;
+  width: 427px;
+}
+
+.islandwood .screen2old {
+  height: 856px;
+  left: 94px;
+  position: absolute;
+  top: 9064px;
+  width: 424px;
+}
+
+.islandwood .screen-1-homepage {
+  left: 492px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 8925px;
+  white-space: nowrap;
+}
+
+.islandwood .screen1new {
+  height: 859px;
+  left: 709px;
+  position: absolute;
+  top: 8032px;
+  width: 422px;
+}
+
+.islandwood .screen1old {
+  height: 859px;
+  left: 94px;
+  position: absolute;
+  top: 8032px;
+  width: 427px;
+}
+
+.islandwood .redesigned-mobile-screens {
+  left: 750px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 7965px;
+  width: 340px;
+}
+
+.islandwood .original-mobile-screens {
+  left: 164px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 7965px;
+  width: 288px;
+}
+
+.islandwood .high-fidelity-prototype {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 7826px;
+  white-space: nowrap;
+}
+
+.islandwood .community-waters-science-unit {
+  left: 1007px;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 7669px;
+  width: 233px;
+}
+
+.islandwood .lofi4 {
+  height: 544px;
+  left: 999px;
+  object-fit: cover;
+  position: absolute;
+  top: 7111px;
+  width: 250px;
+}
+
+.islandwood .education-programs {
+  left: 710px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 7661px;
+  white-space: nowrap;
+}
+
+.islandwood .lofi3 {
+  height: 544px;
+  left: 707px;
+  object-fit: cover;
+  position: absolute;
+  top: 7111px;
+  width: 250px;
+}
+
+.islandwood .hamburger-menu {
+  left: 437px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 7661px;
+  white-space: nowrap;
+}
+
+.islandwood .lofi2 {
+  height: 544px;
+  left: 415px;
+  object-fit: cover;
+  position: absolute;
+  top: 7111px;
+  width: 250px;
+}
+
+.islandwood .homepage {
+  left: 182px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 7661px;
+  white-space: nowrap;
+}
+
+.islandwood .lofi1 {
+  height: 544px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 7111px;
+  width: 250px;
+}
+
+.islandwood .using-figma-i-trans {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 6926px;
+  width: 1084px;
+}
+
+.islandwood .prototype-with-penci {
+  left: 327px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 6791px;
+  white-space: nowrap;
+}
+
+.islandwood .interface-sketches {
+  height: 823px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 5934px;
+  width: 1108px;
+}
+
+.islandwood .beginning-with-initi {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 5649px;
+  width: 1084px;
+}
+
+.islandwood .low-fidelity-wireframes {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 5569px;
+  white-space: nowrap;
+}
+
+.islandwood .redesigned-logo {
+  left: 582px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 5434px;
+  white-space: nowrap;
+}
+
+.islandwood .island-wood-logo-1 {
+  height: 134px;
+  left: 369px;
+  object-fit: cover;
+  position: absolute;
+  top: 5266px;
+  width: 634px;
+}
+
+.islandwood .in-crafting-the-defi {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 5081px;
+  width: 1084px;
+}
+
+.islandwood .refined-logo-design {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 5001px;
+  white-space: nowrap;
+}
+
+.islandwood .logo-brainstorm-with-pencil-and-paper {
+  left: 455px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 4866px;
+  white-space: nowrap;
+}
+
+.islandwood .logo-sketches {
+  height: 825px;
+  left: 223px;
+  position: absolute;
+  top: 4007px;
+  width: 925px;
+}
+
+.islandwood .in-exploring-new-log {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 3771px;
+  width: 1084px;
+}
+
+.islandwood .original-logo {
+  left: 606px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 3636px;
+  white-space: nowrap;
+}
+
+.islandwood .original-logo-1 {
+  height: 204px;
+  left: 369px;
+  object-fit: cover;
+  position: absolute;
+  top: 3394px;
+  width: 634px;
+}
+
+.islandwood .island-woods-origina {
+  top: 3258px;
+  width: 918px;
+}
+
+.islandwood .logo-evolution {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 3188px;
+  white-space: nowrap;
+}
+
+.islandwood .my-proposed-instagram-feed {
+  left: 855px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 3053px;
+  white-space: nowrap;
+}
+
+.islandwood .island-woods-instagram-feed {
+  left: 168px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 3053px;
+  white-space: nowrap;
+}
+
+.islandwood .islandwoodnewig {
+  height: 1085px;
+  left: 779px;
+  object-fit: cover;
+  position: absolute;
+  top: 1934px;
+  width: 500px;
+}
+
+.islandwood .islandwoodoriginalig {
+  height: 1085px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 1934px;
+  width: 501px;
+}
+
+.islandwood .although-their-socia {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 1598px;
+  width: 1086px;
+}
+
+.islandwood .strategic-redesign {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 1528px;
+  white-space: nowrap;
+}
+
+.islandwood .mood-board-container {
+  height: 778px;
+  left: 136px;
+  top: 715px;
+}
+
+.islandwood .mood-board {
+  left: 477px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 728px;
+  white-space: nowrap;
+}
+
+.islandwood .mood-board-1 {
+  height: 729px;
+  left: 0;
+  object-fit: cover;
+  top: 0;
+}
+
+.islandwood .visual-inspiration {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 629px;
+  white-space: nowrap;
+}
+
+.islandwood .in-this-project-i-a {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 395px;
+  width: 1086px;
+}
+
+.islandwood .transforming-environ {
+  color: var(--black-2);
+  font-weight: 400;
+  left: 68px;
+  line-height: 50px;
+  position: absolute;
+  top: 161px;
+  width: 1086px;
+}
+
+.islandwood .title {
+  height: 69px;
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 72px;
+  width: 291px;
+}
+
+.islandwood .bottom {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 157px;
+  height: 662px;
+  width: 1728px;
+}
+
+.islandwood .divider {
+  height: 5px;
+  margin-right: 0.01px;
+  object-fit: cover;
+  width: 1500px;
+}
+
+.islandwood .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  min-width: 1580px;
+}
+
+.islandwood .footer {
+  background-color: transparent;
+  display: flex;
+  flex-shrink: 1;
+  height: 98px;
+  margin-top: 8px;
+  width: 1728px;
+}
+
+.islandwood .designed-and-devel {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 82px;
+  margin-top: 35px;
+  white-space: nowrap;
+  width: 439px;
+}
+
+.islandwood .gmail {
+  height: 50px;
+  margin-left: 1008px;
+  margin-top: 24px;
+  width: 50px;
+}
+
+.islandwood .linked-in {
+  cursor: pointer;
+  height: 50px;
+  margin-left: 25px;
+  margin-top: 24px;
+  width: 50px;
+}
+
+.islandwood .island-woods {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+}
+
+.islandwood .mood-board-2 {
+  position: absolute;
+  width: 1100px;
+}

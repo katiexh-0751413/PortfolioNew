@@ -1,0 +1,511 @@
+/* screen - project-2-capstone */
+
+.project-2-capstone {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 9834px;
+  width: 1728px;
+}
+
+.project-2-capstone .nav-bar {
+  align-items: flex-start;
+  background-color: #edadc7;
+  display: flex;
+  height: 670px;
+  padding: 0 75px;
+  width: 1728px;
+}
+
+.project-2-capstone .name {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 34px;
+  min-width: 153px;
+  white-space: nowrap;
+}
+
+.project-2-capstone .screenshot-2023-11-13-at-338-1 {
+  align-self: flex-end;
+  height: 595px;
+  margin-left: 176px;
+  width: 920px;
+}
+
+.project-2-capstone .work {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 17px;
+  margin-top: 34px;
+  min-width: 44px;
+  white-space: nowrap;
+}
+
+.project-2-capstone .archived {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 24px;
+  margin-top: 34px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.project-2-capstone .about {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 24px;
+  margin-top: 34px;
+  min-width: 51px;
+  white-space: nowrap;
+}
+
+.project-2-capstone .resume {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 24px;
+  margin-top: 34px;
+  white-space: nowrap;
+}
+
+.project-2-capstone .overlap-group {
+  height: 9066px;
+  position: relative;
+  width: 1728px;
+}
+
+.project-2-capstone .body {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 157px;
+  height: 9066px;
+  left: 0;
+  padding: 55px 0;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.project-2-capstone .flex-col {
+  flex-direction: column;
+  gap: 150px;
+  margin-right: 14.01px;
+  min-height: 8248px;
+  width: 1514px;
+}
+
+.project-2-capstone .flex-row {
+  gap: 36px;
+  height: 8092px;
+  min-width: 1459px;
+}
+
+.project-2-capstone .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 1354px;
+  width: 257px;
+}
+
+.project-2-capstone .included-logo {
+  height: 90px;
+  width: 90px;
+}
+
+.project-2-capstone .company {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 35px;
+  white-space: nowrap;
+}
+
+.project-2-capstone .included {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 15px;
+  width: 115px;
+}
+
+.project-2-capstone .flex-col-item {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 50px;
+  white-space: nowrap;
+}
+
+.project-2-capstone .january-june-2023 {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 15px;
+  width: 257px;
+}
+
+.project-2-capstone .literature-review-us {
+  height: 210px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 15px;
+  width: 257px;
+}
+
+.project-2-capstone .figma-fig-jam-tableau {
+  height: 270px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 15px;
+  width: 199px;
+}
+
+.project-2-capstone .name-1 {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 15px;
+  min-height: 120px;
+  width: 242px;
+}
+
+.project-2-capstone .and-of-course-inclu {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 15px;
+  min-height: 150px;
+  width: 242px;
+}
+
+.project-2-capstone .flex-col-2 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 8075px;
+  width: 1166px;
+}
+
+.project-2-capstone .title {
+  align-self: flex-start;
+  height: 69px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 32px;
+  width: 536px;
+}
+
+.project-2-capstone .matching-hiring-need {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 50px;
+  margin-right: 16.0px;
+  margin-top: 20px;
+  min-height: 349px;
+  width: 1086px;
+}
+
+.project-2-capstone .image-51 {
+  height: 1243px;
+  margin-right: 30.0px;
+  margin-top: 101px;
+  width: 826px;
+}
+
+.project-2-capstone .our-team-poster {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-right: 30.0px;
+  margin-top: 16px;
+  min-width: 198px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.project-2-capstone .as-the-backend-engin {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-right: 18.0px;
+  margin-top: 191px;
+  min-height: 350px;
+  width: 1084px;
+}
+
+.project-2-capstone .flex-col-item-1 {
+  margin-right: 18.0px;
+  margin-top: 20px;
+  min-height: 200px;
+  width: 1084px;
+}
+
+.project-2-capstone .flex-col-item-2 {
+  align-self: flex-start;
+  margin-left: 33px;
+  margin-top: 50px;
+  white-space: nowrap;
+}
+
+.project-2-capstone .beyond-backend-imple {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-right: 18.0px;
+  margin-top: 20px;
+  min-height: 300px;
+  width: 1084px;
+}
+
+.project-2-capstone .post-project-complet {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-right: 14.0px;
+  margin-top: 20px;
+  min-height: 200px;
+  width: 1084px;
+}
+
+.project-2-capstone .image-container {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  gap: 19px;
+  margin-left: 5px;
+  margin-top: 218px;
+  min-width: 1143px;
+}
+
+.project-2-capstone .image-53 {
+  height: 439px;
+  margin-bottom: 1.0px;
+  width: 560px;
+}
+
+.project-2-capstone .image-52 {
+  height: 442px;
+  width: 564px;
+}
+
+.project-2-capstone .image-container-1 {
+  gap: 23px;
+  margin-left: 5.0px;
+  margin-top: 122px;
+  min-width: 1161px;
+}
+
+.project-2-capstone .image-57 {
+  height: 450px;
+  width: 554px;
+}
+
+.project-2-capstone .image-54 {
+  height: 450px;
+  width: 584px;
+}
+
+.project-2-capstone .screen-2-organization-recommendations {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 8.0px;
+  margin-top: 4px;
+  min-width: 506px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.project-2-capstone .image-container-2 {
+  align-self: flex-start;
+  gap: 22px;
+  margin-left: 2px;
+  margin-top: 73px;
+  min-width: 1146px;
+}
+
+.project-2-capstone .image-58 {
+  height: 440px;
+  width: 560px;
+}
+
+.project-2-capstone .image-5 {
+  height: 440px;
+  width: 564px;
+}
+
+.project-2-capstone .screen-3-job-board-recommendations {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 9.0px;
+  margin-top: 9px;
+  min-width: 473px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.project-2-capstone .image-container-3 {
+  align-self: flex-start;
+  gap: 20px;
+  margin-top: 133px;
+  min-width: 1148px;
+}
+
+.project-2-capstone .screen-4-candidate-pool {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: 9px;
+  min-width: 300px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.project-2-capstone .tions {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 39px;
+  margin-top: 150px;
+  white-space: nowrap;
+}
+
+.project-2-capstone .our {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-right: 4.0px;
+  margin-top: 20px;
+  min-height: 250px;
+  width: 1084px;
+}
+
+.project-2-capstone .image-60 {
+  align-self: flex-start;
+  height: 646px;
+  margin-left: 18px;
+  margin-top: 151px;
+  object-fit: cover;
+  width: 1088px;
+}
+
+.project-2-capstone .my-team-and-i-at-the-capstone-showcase {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-right: 82.0px;
+  margin-top: 9px;
+  min-width: 500px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.project-2-capstone .the-journey-with-ha {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-right: 4.0px;
+  margin-top: 20px;
+  min-height: 200px;
+  width: 1084px;
+}
+
+.project-2-capstone .divider {
+  align-self: flex-end;
+  height: 6px;
+  object-fit: cover;
+  width: 1500px;
+}
+
+.project-2-capstone .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  min-width: 1580px;
+}
+
+.project-2-capstone .image {
+  height: 500px;
+  object-fit: cover;
+  width: 500px;
+}
+
+.project-2-capstone .project-4 {
+  background-color: var(--celeste);
+  height: 500px;
+  width: 500px;
+}
+
+.project-2-capstone .my-teams-original-ui {
+  left: 549px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 3791px;
+  white-space: nowrap;
+}
+
+.project-2-capstone .my-redesigned-ui {
+  left: 1157px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 3791px;
+  white-space: nowrap;
+}
+
+.project-2-capstone .backend-engineer {
+  left: 425px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 2048px;
+  white-space: nowrap;
+}
+
+.project-2-capstone .screen-1-job-sourcing-recommendations {
+  left: 717px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 4310px;
+  white-space: nowrap;
+}
+
+.project-2-capstone .footer {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 98px;
+  justify-content: flex-start;
+  padding: 0 74px;
+  width: 1728px;
+}
+
+.project-2-capstone .designed-and-devel {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-bottom: 3.0px;
+  margin-left: 8px;
+  min-width: 439px;
+  white-space: nowrap;
+}
+
+.project-2-capstone .gmail {
+  height: 50px;
+  margin-left: 933px;
+  width: 50px;
+}
+
+.project-2-capstone .flex-col-item-3 {
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.project-2-capstone .image-container-4 {
+  align-items: flex-start;
+  display: flex;
+}

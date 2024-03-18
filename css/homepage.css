@@ -1,0 +1,157 @@
+/* screen - homepage */
+
+.homepage {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2082px;
+  width: 1728px;
+}
+
+.homepage .navbar {
+  align-items: flex-start;
+  display: flex;
+  height: 97px;
+  padding: 34px 75px;
+  width: 1728px;
+}
+
+.homepage .navbar-link-name {
+  min-width: 153px;
+}
+
+.homepage .navbar-link-work {
+  margin-left: 1113px;
+  min-width: 44px;
+}
+
+.homepage .navbar-link-archived {
+  cursor: pointer;
+  margin-left: 24px;
+  min-width: 73px;
+}
+
+.homepage .navbar-link-about {
+  cursor: pointer;
+  margin-left: 24px;
+  min-width: 51px;
+}
+
+.homepage .navbar-link-resume {
+  cursor: pointer;
+  margin-left: 24px;
+}
+
+.homepage .introduction-projects {
+  align-items: flex-end;
+  display: flex;
+  gap: 68px;
+  height: 1887px;
+  padding: 33px 75px;
+  width: 1728px;
+}
+
+.homepage .overlap-group {
+  height: 1812px;
+  position: relative;
+  width: 751px;
+}
+
+.homepage .column-1 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.homepage .hello {
+  color: var(--black-2);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  height: 48px;
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-top: 30px;
+  white-space: nowrap;
+  width: 194px;
+}
+
+.homepage .im-katie-a-designe {
+  height: 105px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 13px;
+}
+
+.homepage .capstone {
+  cursor: pointer;
+  height: 750px;
+  margin-top: 50px;
+  object-fit: cover;
+  width: 750px;
+}
+
+.homepage .itinero-1 {
+  cursor: pointer;
+  height: 751px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1061px;
+  width: 751px;
+}
+
+.homepage .column-2 {
+  background-color: var(--white);
+  gap: 76px;
+}
+
+.homepage .link {
+  cursor: pointer;
+  height: 750px;
+  object-fit: cover;
+  width: 750px;
+}
+
+.homepage .footer {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 98px;
+  justify-content: flex-start;
+  padding: 0 74px;
+  width: 1728px;
+}
+
+.homepage .designed-and-devel {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-bottom: 3.0px;
+  margin-left: 8px;
+  min-width: 439px;
+  white-space: nowrap;
+}
+
+.homepage .gmail {
+  height: 50px;
+  margin-left: 1008px;
+  width: 50px;
+}
+
+.homepage .linked-in {
+  cursor: pointer;
+  height: 50px;
+  margin-left: 25px;
+  width: 50px;
+}
+
+.homepage .column {
+  display: flex;
+  flex-direction: column;
+  height: 1812px;
+  width: 750px;
+}

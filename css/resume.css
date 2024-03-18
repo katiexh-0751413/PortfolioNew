@@ -1,0 +1,382 @@
+/* screen - resume */
+
+.resume {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2695px;
+  width: 1728px;
+}
+
+.resume .navbar {
+  align-items: flex-start;
+  display: flex;
+  height: 79px;
+  padding: 25px 75px;
+  width: 1728px;
+}
+
+.resume .navbar-link-name {
+  cursor: pointer;
+  min-width: 153px;
+}
+
+.resume .navbar-link-work {
+  cursor: pointer;
+  margin-left: 1113px;
+  min-width: 41px;
+}
+
+.resume .navbar-link-archived {
+  cursor: pointer;
+  margin-left: 27px;
+  min-width: 73px;
+}
+
+.resume .navbar-link-about {
+  cursor: pointer;
+  margin-left: 24px;
+  min-width: 51px;
+}
+
+.resume .navbar-link-resume {
+  margin-left: 24px;
+}
+
+.resume .body {
+  display: flex;
+  flex-direction: column;
+  height: 1989px;
+  margin-top: 9px;
+  width: 1728px;
+}
+
+.resume .name {
+  color: var(--black);
+  font-weight: 600;
+  height: 42px;
+  line-height: 42px;
+  margin-left: 370px;
+  margin-top: 15px;
+  width: 239px;
+}
+
+.resume .work-experience {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 45px;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.resume .university-of-washin {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 20px;
+  white-space: nowrap;
+  width: 967px;
+}
+
+.resume .january-2023-march-2023-seattle-wa {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 10px;
+  white-space: nowrap;
+  width: 396px;
+}
+
+.resume .enhanced-course-mate {
+  height: 135px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 370px;
+  margin-top: 20px;
+  width: 995px;
+}
+
+.resume .t-mobile-software-engineer-intern {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 30px;
+  white-space: nowrap;
+  width: 347px;
+}
+
+.resume .january-2023-june-2023-bellevue-wa {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 10px;
+  white-space: nowrap;
+  width: 394px;
+}
+
+.resume .developed-a-project {
+  height: 135px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 370px;
+  margin-top: 20px;
+  width: 864px;
+}
+
+.resume .project-experience {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 50px;
+  white-space: nowrap;
+  width: 206px;
+}
+
+.resume .included {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 20px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.resume .january-2023-june-2023-kirkland-wa {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 10px;
+  white-space: nowrap;
+  width: 387px;
+}
+
+.resume .conceptualized-and-d {
+  height: 130px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 370px;
+  margin-top: 20px;
+  width: 1029px;
+}
+
+.resume .safe-chat {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 30px;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.resume .january-2023-june-2023-seattle-wa {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 10px;
+  white-space: nowrap;
+  width: 382px;
+}
+
+.resume .led-a-four-person-te {
+  height: 130px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 370px;
+  margin-top: 20px;
+  width: 1038px;
+}
+
+.resume .island-wood {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 30px;
+  white-space: nowrap;
+  width: 123px;
+}
+
+.resume .redesigned-island-woo {
+  height: 190px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 370px;
+  margin-top: 20px;
+  width: 1025px;
+}
+
+.resume .women-in-informatics-hackathon {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 30px;
+  white-space: nowrap;
+  width: 340px;
+}
+
+.resume .january-2020-seattle-wa {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 10px;
+  white-space: nowrap;
+  width: 260px;
+}
+
+.resume .guided-a-four-person {
+  height: 95px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 370px;
+  margin-top: 20px;
+  width: 1025px;
+}
+
+.resume .education {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 35px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.resume .flex-container-15044 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 100px;
+  margin-left: 370px;
+  margin-top: 19px;
+  position: relative;
+  width: 487px;
+}
+
+.resume .text {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.resume .awards {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 31px;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.resume .brave-award-human {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 20px;
+  white-space: nowrap;
+  width: 941px;
+}
+
+.resume .overall-best-project {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 370px;
+  margin-top: 20px;
+  white-space: nowrap;
+  width: 603px;
+}
+
+.resume .overlap-group {
+  height: 618px;
+  position: relative;
+  width: 1728px;
+}
+
+.resume .footer {
+  background-color: transparent;
+  display: flex;
+  height: 98px;
+  left: 0;
+  position: absolute;
+  top: 520px;
+  width: 1728px;
+}
+
+.resume .designed-and-devel {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 82px;
+  margin-top: 35px;
+  white-space: nowrap;
+  width: 439px;
+}
+
+.resume .gmail {
+  height: 50px;
+  margin-left: 1008px;
+  margin-top: 24px;
+  width: 50px;
+}
+
+.resume .linked-in {
+  cursor: pointer;
+  height: 50px;
+  margin-left: 25px;
+  margin-top: 24px;
+  width: 50px;
+}
+
+.resume .bottom {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+  height: 528px;
+  left: 0;
+  padding: 0 114.0px;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.resume .divider {
+  height: 5px;
+  object-fit: cover;
+  width: 1500px;
+}
+
+.resume .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 31px;
+  margin-right: 1.0px;
+  min-width: 1493px;
+}
+
+.resume .link {
+  cursor: pointer;
+  height: 350px;
+  object-fit: cover;
+  width: 350px;
+}

@@ -1,0 +1,579 @@
+/* screen - itinero */
+
+.itinero {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 11911px;
+  width: 1728px;
+}
+
+.itinero .nav-bar {
+  align-items: flex-start;
+  background-color: var(--eastern-blue);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 670px;
+  padding: 34px 75px;
+  width: 1728px;
+}
+
+.itinero .navbar-link-container {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1573px;
+}
+
+.itinero .navbar-link-name {
+  cursor: pointer;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  min-width: 153px;
+  white-space: nowrap;
+}
+
+.itinero .navbar-link-work {
+  cursor: pointer;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 1113px;
+  min-width: 44px;
+  white-space: nowrap;
+}
+
+.itinero .navbar-link-archived {
+  cursor: pointer;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 24px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.itinero .navbar-link-about {
+  cursor: pointer;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 24px;
+  min-width: 51px;
+  white-space: nowrap;
+}
+
+.itinero .navbar-link-resume {
+  cursor: pointer;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 24px;
+  white-space: nowrap;
+}
+
+.itinero .image-96 {
+  align-self: center;
+  height: 550px;
+  width: 1300px;
+}
+
+.itinero .body {
+  display: flex;
+  height: 10433px;
+  overflow: hidden;
+  width: 1728px;
+}
+
+.itinero .left-bar {
+  display: flex;
+  flex-direction: column;
+  height: 10509px;
+  overflow: hidden;
+  width: 357px;
+}
+
+.itinero .itinero-logo {
+  height: 57.02px;
+  margin-left: 100px;
+  margin-top: 75px;
+  object-fit: cover;
+  width: 165px;
+}
+
+.itinero .duration {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 49.0px;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.itinero .october-2023-february-2024 {
+  height: 54px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 15px;
+  width: 257px;
+}
+
+.itinero .surname {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 42px;
+  white-space: nowrap;
+  width: 221px;
+}
+
+.itinero .project-ideation-use {
+  height: 210px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 100px;
+  margin-top: 15px;
+  width: 265px;
+}
+
+.itinero .tools {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 50px;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.itinero .figma-fig-jam-canva {
+  height: 90px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 100px;
+  margin-top: 15px;
+  width: 199px;
+}
+
+.itinero .team {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 100px;
+  margin-top: 50px;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.itinero .ally-feng-katie-hancock {
+  height: 60px;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 100px;
+  margin-top: 15px;
+  width: 242px;
+}
+
+.itinero .content {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 10509px;
+  padding: 72px 0;
+  width: 1371px;
+}
+
+.itinero .title {
+  height: 69px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 68px;
+  width: 291px;
+}
+
+.itinero .seamlessly-blending {
+  color: var(--black-2);
+  font-weight: 400;
+  line-height: 50px;
+  margin-left: 68px;
+  margin-top: 20px;
+  min-height: 150px;
+  width: 1086px;
+}
+
+.itinero .user-research {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 68px;
+  margin-top: 50px;
+  white-space: nowrap;
+}
+
+.itinero .content-item {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 68px;
+  margin-top: 20px;
+  min-height: 100px;
+  width: 1084px;
+}
+
+.itinero .affinity-diagram {
+  align-self: center;
+  height: 864px;
+  margin-right: 152.0px;
+  margin-top: 101px;
+  object-fit: cover;
+  width: 1053px;
+}
+
+.itinero .affinity-diagram-1 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-right: 151.0px;
+  margin-top: 19px;
+  min-width: 192px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.itinero .based-on-the-finding {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 68px;
+  margin-top: 100px;
+  width: 1084px;
+}
+
+.itinero .main-features {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 68px;
+  margin-top: 20px;
+  width: 440px;
+}
+
+.itinero .content-item-1 {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 68px;
+  margin-top: 100px;
+  white-space: nowrap;
+}
+
+.itinero .paper-wireframe-container {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 108px;
+  margin-left: 1.0px;
+  margin-top: 101px;
+  min-width: 1168px;
+}
+
+.itinero .paper-wireframe {
+  height: 707px;
+  object-fit: cover;
+  width: 530px;
+}
+
+.itinero .paper-wireframes {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-right: 1.0px;
+  margin-top: 29px;
+  min-width: 216px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.itinero .brainstorm {
+  align-self: center;
+  height: 768px;
+  margin-left: 1.0px;
+  margin-top: 101px;
+  object-fit: cover;
+  width: 1024px;
+}
+
+.itinero .brainstormed-words-on-paper {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 1.0px;
+  margin-top: 29px;
+  min-width: 358px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.itinero .from-there-i-gather {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 68px;
+  margin-top: 100px;
+  min-height: 450px;
+  width: 1084px;
+}
+
+.itinero .mood-board {
+  align-self: center;
+  height: 731px;
+  margin-top: 101px;
+  object-fit: cover;
+  width: 1303px;
+}
+
+.itinero .mood-board-1 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: 29px;
+  min-width: 145px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.itinero .ted {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 68px;
+  margin-top: 20px;
+  min-height: 150px;
+  width: 1084px;
+}
+
+.itinero .logo-container {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  gap: 86px;
+  margin-left: 2.0px;
+  margin-top: 101px;
+  min-width: 1161px;
+}
+
+.itinero .logo-sketches {
+  height: 598px;
+  width: 421px;
+}
+
+.itinero .logo {
+  height: 226px;
+  object-fit: cover;
+  width: 654px;
+}
+
+.itinero .logo-container-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 303px;
+  height: 50px;
+  margin-right: 157.0px;
+  margin-top: 29px;
+  min-width: 942px;
+}
+
+.itinero .initial-logo-sketches-on-paper {
+  letter-spacing: 0;
+  line-height: 50px;
+  min-width: 362px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.itinero .finalized-logo-in-canva {
+  letter-spacing: 0;
+  line-height: 50px;
+  min-width: 277px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.itinero .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 3092px;
+  margin-right: 17.0px;
+  margin-top: 101px;
+  min-width: 1218px;
+}
+
+.itinero .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 3091px;
+  width: 418px;
+}
+
+.itinero .lofi1 {
+  align-self: center;
+  height: 643px;
+  margin-right: 5.0px;
+  width: 311px;
+}
+
+.itinero .lofi4 {
+  align-self: center;
+  height: 640px;
+  margin-right: 5.0px;
+  margin-top: 100px;
+  width: 311px;
+}
+
+.itinero .high-fidelity-prototypes {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: 99px;
+  white-space: nowrap;
+}
+
+.itinero .image-97 {
+  height: 719px;
+  margin-top: 101px;
+  width: 400px;
+}
+
+.itinero .image-100 {
+  height: 719px;
+  margin-top: 20px;
+  width: 400px;
+}
+
+.itinero .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 3092px;
+  width: 400px;
+}
+
+.itinero .lofi2 {
+  height: 643px;
+  margin-right: 1.0px;
+  width: 311px;
+}
+
+.itinero .lofi5 {
+  height: 640px;
+  margin-right: 1.0px;
+  margin-top: 100px;
+  width: 311px;
+}
+
+.itinero .image-98 {
+  height: 719px;
+  margin-top: 250px;
+  width: 400px;
+}
+
+.itinero .image-101 {
+  height: 720px;
+  margin-top: 20px;
+  width: 400px;
+}
+
+.itinero .lofi3 {
+  height: 643px;
+  margin-left: 21.0px;
+  width: 311px;
+}
+
+.itinero .lofi6 {
+  height: 640px;
+  margin-left: 21.0px;
+  margin-top: 100px;
+  width: 311px;
+}
+
+.itinero .image-99 {
+  height: 719px;
+  margin-right: 1.0px;
+  margin-top: 250px;
+  width: 399px;
+}
+
+.itinero .image-102 {
+  height: 721px;
+  margin-top: 19px;
+  width: 400px;
+}
+
+.itinero .bottom {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 710px;
+  overflow: hidden;
+  width: 1728px;
+}
+
+.itinero .divider {
+  align-self: flex-start;
+  height: 1px;
+  margin-left: -2649px;
+  margin-top: -12866px;
+}
+
+.itinero .divider-1 {
+  height: 6px;
+  margin-right: 0.01px;
+  margin-top: 12904px;
+}
+
+.itinero .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  margin-top: 117px;
+  min-width: 1580px;
+}
+
+.itinero .footer {
+  background-color: transparent;
+  display: flex;
+  flex-shrink: 1;
+  height: 98px;
+  width: 1728px;
+}
+
+.itinero .designed-and-devel {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 82px;
+  margin-top: 35px;
+  white-space: nowrap;
+  width: 439px;
+}
+
+.itinero .gmail {
+  height: 50px;
+  margin-left: 1008px;
+  margin-top: 24px;
+  width: 50px;
+}
+
+.itinero .linked-in {
+  cursor: pointer;
+  height: 50px;
+  margin-left: 25px;
+  margin-top: 24px;
+  width: 50px;
+}
+
+.itinero .divider-2 {
+  object-fit: cover;
+  width: 1500px;
+}

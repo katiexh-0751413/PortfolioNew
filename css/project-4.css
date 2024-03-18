@@ -1,0 +1,621 @@
+/* screen - project-4 */
+
+.project-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 14142px;
+  width: 1728px;
+}
+
+.project-4 .nav-bar {
+  align-items: flex-start;
+  display: flex;
+  height: 670px;
+  padding: 34px 75px;
+  width: 1728px;
+}
+
+.project-4 .name {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  min-width: 153px;
+  white-space: nowrap;
+}
+
+.project-4 .work {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 1113px;
+  min-width: 44px;
+  white-space: nowrap;
+}
+
+.project-4 .archived {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 24px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.project-4 .about {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 24px;
+  min-width: 51px;
+  white-space: nowrap;
+}
+
+.project-4 .resume {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-left: 24px;
+  white-space: nowrap;
+}
+
+.project-4 .overlap-group2 {
+  height: 13472px;
+  position: relative;
+  width: 1728px;
+}
+
+.project-4 .footer {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 98px;
+  justify-content: flex-start;
+  left: 0;
+  padding: 0 74px;
+  position: absolute;
+  top: 13374px;
+  width: 1728px;
+}
+
+.project-4 .designed-and-devel {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-bottom: 3.0px;
+  margin-left: 8px;
+  min-width: 439px;
+  white-space: nowrap;
+}
+
+.project-4 .gmail {
+  height: 50px;
+  margin-left: 933px;
+  width: 50px;
+}
+
+.project-4 .frame-22 {
+  height: 13472px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.project-4 .overlap-group {
+  height: 919px;
+  left: 100px;
+  position: absolute;
+  top: 844px;
+  width: 1290px;
+}
+
+.project-4 .ally-feng-katie-hancock {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 242px;
+}
+
+.project-4 .image-79 {
+  height: 864px;
+  left: 237px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 1053px;
+}
+
+.project-4 .team {
+  height: 27px;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 802px;
+  white-space: nowrap;
+}
+
+.project-4 .figma-fig-jam-canva {
+  height: 90px;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 662px;
+  width: 199px;
+}
+
+.project-4 .tools {
+  height: 27px;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 620px;
+  white-space: nowrap;
+}
+
+.project-4 .project-ideation-use {
+  height: 210px;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 360px;
+  width: 265px;
+}
+
+.project-4 .surname {
+  height: 27px;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 318px;
+  white-space: nowrap;
+}
+
+.project-4 .october-2023-february-2024 {
+  height: 54px;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 222px;
+  width: 257px;
+}
+
+.project-4 .duration {
+  height: 27px;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 180px;
+  white-space: nowrap;
+}
+
+.project-4 .image-25 {
+  height: 57px;
+  left: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 165px;
+}
+
+.project-4 .title {
+  height: 69px;
+  left: 425px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 72px;
+  width: 291px;
+}
+
+.project-4 .seamlessly-blending {
+  color: var(--black-2);
+  font-weight: 400;
+  left: 425px;
+  line-height: 50px;
+  position: absolute;
+  top: 161px;
+  width: 1086px;
+}
+
+.project-4 .we-conducted-user-re {
+  left: 425px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 428px;
+  width: 1084px;
+}
+
+.project-4 .user-research {
+  left: 425px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 361px;
+  white-space: nowrap;
+}
+
+.project-4 .itinerary-creation-a {
+  left: 425px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 2182px;
+  width: 1084px;
+}
+
+.project-4 .i-conducted-semi-str {
+  left: 425px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 698px;
+  width: 1084px;
+}
+
+.project-4 .our-findings-were-ri {
+  left: 425px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 1932px;
+  width: 1084px;
+}
+
+.project-4 .affinity-diagram {
+  left: 768px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 1782px;
+  white-space: nowrap;
+}
+
+.project-4 .main-features {
+  left: 425px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 2112px;
+  width: 440px;
+}
+
+.project-4 .ability-to-add-frien {
+  left: 425px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 2382px;
+  width: 1084px;
+}
+
+.project-4 .secondary-features {
+  left: 425px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 2312px;
+  width: 440px;
+}
+
+.project-4 .to-initiate-the-desi {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 2725px;
+  width: 1084px;
+}
+
+.project-4 .paper-wireframes {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 2655px;
+  white-space: nowrap;
+}
+
+.project-4 .e0772-c69-f48-c-433 {
+  height: 839px;
+  left: 172px;
+  object-fit: cover;
+  position: absolute;
+  top: 3173px;
+  width: 629px;
+}
+
+.project-4 .d31-fa99-d-3-e29-4-c {
+  height: 839px;
+  left: 929px;
+  object-fit: cover;
+  position: absolute;
+  top: 3173px;
+  width: 629px;
+}
+
+.project-4 .paper-wireframes-with-labels {
+  left: 687px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 4065px;
+  white-space: nowrap;
+}
+
+.project-4 .mood-board {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 4215px;
+  white-space: nowrap;
+}
+
+.project-4 .from-there-i-gather {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 5507px;
+  width: 1084px;
+}
+
+.project-4 .overlap-group1 {
+  height: 1019px;
+  left: 0;
+  position: absolute;
+  top: 6358px;
+  width: 1728px;
+}
+
+.project-4 .image-80 {
+  height: 970px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.project-4 .mood-board-1 {
+  left: 793px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 969px;
+  white-space: nowrap;
+}
+
+.project-4 .x58-c94-c36-43-bf-4-d {
+  height: 768px;
+  left: 353px;
+  object-fit: cover;
+  position: absolute;
+  top: 4536px;
+  width: 1024px;
+}
+
+.project-4 .i-wrote-out-on-a-pie {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 4285px;
+  width: 1084px;
+}
+
+.project-4 .brainstormed-words-on-paper {
+  left: 685px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 5357px;
+  white-space: nowrap;
+}
+
+.project-4 .logo-design {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 7427px;
+  white-space: nowrap;
+}
+
+.project-4 .low-fidelity-prototypes {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 9425px;
+  white-space: nowrap;
+}
+
+.project-4 .high-fidelity-prototypes {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 11298px;
+  white-space: nowrap;
+}
+
+.project-4 .cognitive-walkthroughs {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 12928px;
+  white-space: nowrap;
+}
+
+.project-4 .final-design {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 13110px;
+  white-space: nowrap;
+}
+
+.project-4 .i-started-by-first-s {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 7497px;
+  width: 1084px;
+}
+
+.project-4 .e8-a63004-25-b7-4-a0 {
+  height: 598px;
+  left: 655px;
+  position: absolute;
+  top: 7848px;
+  width: 421px;
+}
+
+.project-4 .initial-logo-sketches-on-paper {
+  left: 684px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 8465px;
+  white-space: nowrap;
+}
+
+.project-4 .i-decided-i-liked-th {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 8615px;
+  width: 1084px;
+}
+
+.project-4 .finalized-logo-in-canva {
+  left: 727px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 9275px;
+  white-space: nowrap;
+}
+
+.project-4 .next-i-translated-t {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 9495px;
+  width: 1084px;
+}
+
+.project-4 .image-87 {
+  height: 643px;
+  left: 298px;
+  position: absolute;
+  top: 9746px;
+  width: 311px;
+}
+
+.project-4 .image-88 {
+  height: 643px;
+  left: 709px;
+  position: absolute;
+  top: 9746px;
+  width: 311px;
+}
+
+.project-4 .image-89 {
+  height: 643px;
+  left: 1120px;
+  position: absolute;
+  top: 9746px;
+  width: 311px;
+}
+
+.project-4 .image-90 {
+  height: 640px;
+  left: 298px;
+  position: absolute;
+  top: 10489px;
+  width: 311px;
+}
+
+.project-4 .image-91 {
+  height: 640px;
+  left: 709px;
+  position: absolute;
+  top: 10489px;
+  width: 311px;
+}
+
+.project-4 .image-92 {
+  height: 640px;
+  left: 1120px;
+  position: absolute;
+  top: 10489px;
+  width: 311px;
+}
+
+.project-4 .advancing-from-the-f {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 11368px;
+  width: 1084px;
+}
+
+.project-4 .image-93 {
+  height: 641px;
+  left: 298px;
+  position: absolute;
+  top: 11669px;
+  width: 311px;
+}
+
+.project-4 .image-94 {
+  height: 641px;
+  left: 709px;
+  position: absolute;
+  top: 11669px;
+  width: 311px;
+}
+
+.project-4 .image-95 {
+  height: 641px;
+  left: 1120px;
+  position: absolute;
+  top: 11669px;
+  width: 311px;
+}
+
+.project-4 .image-25-1 {
+  height: 226px;
+  left: 539px;
+  object-fit: cover;
+  position: absolute;
+  top: 9013px;
+  width: 654px;
+}
