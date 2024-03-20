@@ -5,8 +5,7 @@
   background-color: var(--white);
   display: flex;
   flex-direction: column;
-  height: 2082px;
-  width: 1728px;
+  width: 100%;
 }
 
 .homepage .navbar {
@@ -14,7 +13,7 @@
   display: flex;
   height: 97px;
   padding: 34px 75px;
-  width: 1728px;
+  width: 100%;
 }
 
 .homepage .navbar-link-name {
@@ -49,7 +48,7 @@
   gap: 68px;
   height: 1887px;
   padding: 33px 75px;
-  width: 1728px;
+  max-width: 1728px;
 }
 
 .homepage .overlap-group {
