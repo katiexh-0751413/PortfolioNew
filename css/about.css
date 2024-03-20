@@ -2,11 +2,8 @@
 
 .about {
   align-items: flex-start;
-  background-color: var(--white);
   display: flex;
   flex-direction: column;
-  height: 1405px;
-  width: 1728px;
 }
 
 .about .navbar {
@@ -14,7 +11,7 @@
   display: flex;
   height: 79px;
   padding: 25px 75px;
-  width: 1728px;
+  width: 100%;
 }
 
 .about .navbar-link-name {
@@ -93,20 +90,12 @@
   position: relative;
 }
 
-.about .overlap-group {
-  height: 625px;
-  position: relative;
-  width: 1728px;
-}
-
 .about .footer {
-  background-color: transparent;
   display: flex;
-  height: 98px;
+  height: 100px;
   left: 0;
   position: absolute;
-  top: 527px;
-  width: 1728px;
+  top: 200px;
 }
 
 .about .designed-and-devel {
@@ -139,30 +128,25 @@
   display: flex;
   flex-direction: column;
   gap: 70px;
-  height: 528px;
-  left: 0;
-  padding: 0 114.0px;
-  position: absolute;
-  top: 0;
-  width: 1728px;
+  position: relative;
+  width: 100%;
 }
 
 .about .divider {
   height: 5px;
-  object-fit: cover;
-  width: 1500px;
+  align-self: center;
+  object-fit: scale-down;
+  width: 1000px;
 }
 
 .about .flex-row {
   align-self: center;
-  gap: 31px;
-  margin-right: 1.0px;
-  min-width: 1493px;
+  gap: 35px;
 }
 
 .about .link {
   cursor: pointer;
-  height: 350px;
-  object-fit: cover;
-  width: 350px;
+  height: 200px;
+  object-fit: contain;
+  width: 200px;
 }
